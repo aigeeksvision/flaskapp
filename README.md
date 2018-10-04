@@ -1,2 +1,2 @@
-# flaskapp
+# Flaskapp
 Basic Flask Application
