@@ -1,2 +1,2 @@
 # Flaskapp
-Basic Flask Application
+Minimal Flask Application with templates
